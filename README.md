@@ -34,9 +34,4 @@ Welcome to the Puzzle Game Project! A fun and interactive puzzle game where play
 2. Navigate to the project folder: `cd puzzle-game-project`
 3. Open `index.html` in your browser.
 
-📄 **License**
-This project is licensed under the MIT License.
 
----
-
-This concise version highlights the main features and details of the puzzle game project.
